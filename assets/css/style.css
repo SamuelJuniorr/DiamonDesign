@@ -849,6 +849,7 @@ button {
     
     .logo{
         margin-left: 30px;
+        margin-top: 15px;
     }
 
     nav{
@@ -860,6 +861,10 @@ button {
         height: calc(100vw-100px);
         top: 100px;
         right: 0;
+    }
+
+    .banner h2{
+        font-size: 12px;
     }
 
     .menu ul{
@@ -943,6 +948,7 @@ button {
     
     .logo{
         margin-left: 30px;
+        margin-top: 15px;
     }
 
     .banner h1{
@@ -950,7 +956,7 @@ button {
     }
 
     .banner h2{
-        font-size: 15px;
+        font-size: 12px;
     }
 
     nav{
